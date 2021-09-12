@@ -30,9 +30,14 @@ int main(){
     cin >> setprecision(6) >> z2;
     cout << "(" << x1 << ", " << y1 << ", " << z1 << ")";
     cout << " dot (" << x2 << ", " << y2 << ", " << z2 << ")";
-    cout << "is "  << x1*x2 + y1*y2 + z1*z2;
-
-
+    cout << "is "  << x1*x2 + y1*y2 + z1*z2 << endl;
+    //start Cross Product
+    float x3 = y1 * z2 - y2 * z1;
+    float y3 = x1 * z2 - x2 * z1;
+    float z3 = x1 * y2 - x2 * y1;
+    cout << "(" << x1 << ", " << y1 << ", " << z1 << ")";
+    cout << " cross (" << x2 << ", " << y2 << ", " << z2 << ")";
+    cout << "is (" << x3 << ", " << y3 << ", " << z3 << ")";
     return 2;
 }
 
