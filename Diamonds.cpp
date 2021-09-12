@@ -13,7 +13,7 @@ int main(){
     cout << "Pick a Number:";
     cin >> Height; //get the number of lines
     if(Height < 1){
-        cout << "Please enter a number above 0 next time";-3
+        cout << "Please enter a number above 0 next time";
         return Height;
     }
     for (int Line = Height; Line > 0; Line--){ //top half of diamond
