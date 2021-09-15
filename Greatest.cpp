@@ -1,5 +1,7 @@
 //
-// Created by photo on 9/11/2021.
+// Created by Matt Rindlisbacher on 9/11/2021.
+// CS 201
+// Make a program that takes positive numbers inputted by the user and returns the highest given number
 //
 
 //input numbers until something less than 1 has been inputted, and return with the highest number

@@ -1,5 +1,7 @@
 //
-// Created by photo on 9/10/2021.
+// Created by Matt Rindlisbacher on 9/10/2021.
+// CS 201
+// Make a program that prints a diamond made of pound signs with a height equal to the number the user inputs
 //
 
 #include <iostream>

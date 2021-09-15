@@ -1,5 +1,7 @@
 //
-// Created by photo on 9/11/2021.
+// Created by Matt Rindlisbacher on 9/11/2021.
+//CS 201
+//make a program that calculates the dot and cross products of 2 given 3 dimensional vectors
 //
 
 #include <iostream>
